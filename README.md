@@ -13,12 +13,11 @@
 - 📫 How to reach me: send an issue to me!
 
 
-<div align="center">
-  <img align="left" alt-"html5" src="https://github-readme-stats.vercel.app/api?username=undercurre" width="300" title="html">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undercurre"/>
+<div style="flex" align="center">
+  <img alt-"html5" src="https://github-readme-stats.vercel.app/api?username=undercurre" width="300" title="html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undercurre"/>
 </div>
 
-<!-- Gif -->
 <div align="center">
   <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
